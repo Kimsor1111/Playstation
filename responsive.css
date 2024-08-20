@@ -1,4 +1,7 @@
 @media (min-width: 1367px) and (max-width: 1599.98px) {
+    body{
+        overflow-x: hidden;
+    }
     header{
         height: 35px;
     }
@@ -292,6 +295,9 @@
     }
 }
 @media (min-width: 1024px) and (max-width: 1366.98px) {
+    body{
+        overflow-x: hidden;
+    }
     header{
         height: 30px;
     }
@@ -618,6 +624,9 @@
     }
 }
 @media (min-width: 768px) and (max-width: 1023.98px) {
+    body{
+        overflow-x: hidden;
+    }
     header ,
     header img{
         display: none;
@@ -1017,6 +1026,9 @@
     }
 }
 @media (max-width: 767.98px) {
+    body{
+        overflow-x: hidden;
+    }
     header,
     nav .menu ,
     nav .btn{
@@ -1443,7 +1455,7 @@
         height: 500px;
     }
     footer .foot-container .logo{
-        margin-top: -20px;
+        margin-top: -5px;
         height: 8%;
         width: 34%;
     }
@@ -1485,7 +1497,7 @@
         margin-inline: 5px;
     }
     footer .foot-container .menu .sub-menu ul li:first-child p{
-        font-size: 14px;
+        font-size: 10px;
     }
     footer .foot-container .menu .sub-menu ul li a
     ,  footer .foot-container .menu .sub-menu .icon-container .icon i{
@@ -1496,14 +1508,14 @@
         border-block-end: 1px solid rgba(156, 155, 155, 0.977);
     }
     footer .foot-container .sony-container .img{
-        width: 24%;
-        height: 40%;
+        width: 36%;
+        height: 50%;
     }
     footer .foot-container .sony-container .img p{
-        font-size: 15px;
+        font-size: 10px;
     }
     footer .foot-container .sony-container .des{
-        font-size: 9.5px;
+        font-size: 6px;
     }
     footer .foot-container .location-container{
         height: 5%;
